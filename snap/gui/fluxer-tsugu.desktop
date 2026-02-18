@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Fluxer
+Exec=fluxer-tsugu
+Icon=${SNAP}/meta/gui/fluxer-tsugu.png
+Comment=Fluxer is a free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+Terminal=false
+Type=Application
+MimeType=x-content/unix-software;
